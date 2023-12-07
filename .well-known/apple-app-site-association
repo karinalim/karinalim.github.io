@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "H2ESFMXSH.com.bca.mybca.omni.APR.Testing-NFC",
+        "paths": [
+          "/va/*"
+        ]
+      },
+      {
+        "appID": "H2ESFMXSH.com.bca.mybca.omni-DEV",
+        "paths": [
+          "/va/*"
+        ]
+      },
+      {
+        "appID": "H2ESFMXSH.com.bca.mybca.omni",
+        "paths": [
+          "/va/*"
+        ]
+      }
+    ]
+  }
+}
