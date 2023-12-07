@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GF3689X945.com.bca.mybca.omni.APR.Testing-NFC",
+        "paths": [
+          "/va/*"
+        ]
+      }
+    ]
+  }
+}
